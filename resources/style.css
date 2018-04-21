@@ -8,13 +8,6 @@ section {
   background-position: center center;
 }
 
-#banner-head {
-  font-family: Helvetica;
-  font-size: 70px;
-  font-weight: bold;
-  color: white;
-}
-
 ul {
   list-style: none;
 }
@@ -27,4 +20,23 @@ li a {
 
 .main {
   font-family: Helvetica;
+}
+
+#sectiontwo {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#banner-head {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgary;
 }
